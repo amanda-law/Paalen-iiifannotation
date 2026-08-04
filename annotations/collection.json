@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://amanda-law.github.io/Paalen-iiifannotation/annotations/c70aba738751a9af6f356074faa32eb8.json" ],
+  "@id" : "https://amanda-law.github.io/Paalen-iiifannotation/annotations/collection.json",
+  "label" : "All annotations loaded in amanda-law/Paalen-iiifannotation project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
